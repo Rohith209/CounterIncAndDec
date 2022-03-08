@@ -1,0 +1,33 @@
+.btn {
+  display: block;
+  margin: 10px 0;
+  padding: 5px 15px;
+  color: #fff;
+  outline: 0;
+  border: 0;
+  width: 25%;
+}
+.btn-primary {
+  background: blue;
+}
+.btn-danger {
+  background: red;
+}
+input {
+    width: 100%;
+    padding: 10px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.wrapper {
+    max-width: 500px;
+    background-color: aliceblue;
+    padding: 10% 25%;
+}
